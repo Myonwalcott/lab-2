@@ -20,11 +20,11 @@ text-decoration-color: black;}
         text-decoration-style: double;
         color: #5fc2f8;}
 .flex-container {
-            display: flex; /* Enables Flexbox */
-            justify-content: space-around; /* Distributes space around items */
-            align-items: center; /* Centers items vertically */
-            padding: 10px; /* Adds some padding around the flex container */
-            background: lightgray; /* Background color for the flex container */
+            display: flex; 
+            justify-content: space-around; 
+            align-items: center; 
+            padding: 5px; 
+            background: #5fc2f8; /* Background color for the flex container */
           }
         
 .flex-item {
