@@ -1,9 +1,8 @@
 h2{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-size: medium;
+font-size: large;
 color: rgb(245, 233, 66);
 text-decoration: underline;
-text-decoration-color: black;
-}
+text-decoration-color: black;}
 .info{font-size: larger;color: aqua;}
 .title{border:5px outset #5fc2f8;
     background-color: rgb(7, 2, 3);
@@ -14,5 +13,6 @@ text-decoration-color: black;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 800;
     text-decoration: underline;
-    text-decoration-color: white;
-}
+    text-decoration-color: white;}
+.smtext{text-decoration: underline; 
+        font-size: small;}
