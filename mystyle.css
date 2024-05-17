@@ -16,3 +16,6 @@ text-decoration-color: black;}
     text-decoration-color: white;}
 .smtext{text-decoration: underline; 
         font-size: small;}
+.foot{text-align: center;
+        text-decoration-style: double;
+        color: #5fc2f8;}
