@@ -18,7 +18,8 @@ text-decoration-color: black;}
         font-size: small;}
 .foot{text-align: center;
         text-decoration-style: double;
-        color: #5fc2f8;}
+        color: #5fc2f8;
+        text-emphasis: bold;}
 .flex-container {
             display: flex; 
             justify-content: space-around; 
@@ -29,7 +30,7 @@ text-decoration-color: black;}
         
 .flex-item {
                 background-color: rgb(245, 233, 66);
-                border: 3px solid #0b0202; 
+                border: 3px solid #0b0202 outset #5fc2f8 ; 
                 padding: 20px; 
                 margin: 10px; 
                 text-decoration: underline;
