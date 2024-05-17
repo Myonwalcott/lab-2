@@ -1,5 +1,18 @@
 h2{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-size: medium;
-color: rgb(38, 166, 68);}
+color: rgb(245, 233, 66);
+text-decoration: underline;
+text-decoration-color: black;
+}
 .info{font-size: larger;color: aqua;}
-.title{border:5px outset red;background-color: rgb(137, 31, 52);text-align: center;text-emphasis: bold;}
+.title{border:5px outset #5fc2f8;
+    background-color: rgb(7, 2, 3);
+    text-align: center;
+    text-emphasis: bold;
+    font-size: 40px;
+    color: rgb(245, 233, 66);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
