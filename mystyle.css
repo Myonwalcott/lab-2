@@ -24,14 +24,16 @@ text-decoration-color: black;}
             justify-content: space-around; 
             align-items: center; 
             padding: 5px; 
-            background: #5fc2f8; /* Background color for the flex container */
+            background: #5fc2f8; 
           }
         
 .flex-item {
-                background-color: #f2f2f2; /* Light grey background for flex items */
-                border: 1px solid #ddd; /* Light grey border for flex items */
-                padding: 20px; /* Adds some padding inside the flex items */
-                margin: 10px; /* Adds some margin around the flex items */
+                background-color: #f7f31a;
+                border: 3px solid #0b0202; 
+                padding: 20px; 
+                margin: 10px; 
+                text-decoration: underline;
+                text-decoration-color: white;
                 font-size: 20px;
                 text-align: center;
-                flex-grow: 1; /* Allows flex items to grow to fill available space */}
+                flex-grow: 1; }
