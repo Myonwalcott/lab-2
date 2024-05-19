@@ -38,3 +38,29 @@ text-decoration-color: black;}
                 font-size: 20px;
                 text-align: center;
                 flex-grow: 1; }
+.body, html{
+                        margin: 0;
+                        padding: 0;
+                        height: 100%;}
+                    
+                    
+.body{
+                    
+                                background-image: url('lab-2/IMG_7293.jpg');
+                        
+                                height: 100%;
+                                
+                                background-position: center;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                
+                                position: relative}
+                    
+                    
+.core{
+                        
+                                        position: relative;
+                                        
+                                        padding: 20px;
+                                        
+                                        color: rgb(3, 1, 1);}                
