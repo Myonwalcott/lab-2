@@ -38,15 +38,15 @@ text-decoration-color: black;}
                 font-size: 20px;
                 text-align: center;
                 flex-grow: 1; }
-.body, html{
+body, html{
                         margin: 0;
                         padding: 0;
                         height: 100%;}
                     
                     
-.body{
+body{
                     
-                                background-image: url('lab-2/IMG_7293.jpg');
+                                background-image: url('IMG_7293.jpg');
                         
                                 height: 100%;
                                 
